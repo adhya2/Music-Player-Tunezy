@@ -1,1 +1,1 @@
-# Spotify-Clone
+# Tunezy-Clone
